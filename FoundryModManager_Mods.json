@@ -1,0 +1,15 @@
+{
+  "repositories": [
+    {
+      "name": "lightsBright",
+      "folder": "lightsBright",
+      "url": "https://github.com/59thCasper/lightsBright/releases/download/next/lightsBright.zip",
+      "home": "https://github.com/59thCasper/lightsBright/",
+      "author": "Casper",
+      "description": "Change the Flashlight range and intensity",
+      "requirements": [
+        "Unfoundry"
+      ]
+    }
+  ]
+}
